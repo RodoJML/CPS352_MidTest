@@ -9,8 +9,8 @@ Please find code under "src" folder of this repository.
 
 ## Class Diagram of my solutions
 
-# Composite
+### Composite
 <img width="1220" alt="compositeExam2" src="https://github.com/RodoJML/CPS352_ObjectOrientedProgramming_Exam2/assets/63088555/726cc727-3c19-4411-8943-14603f9e64f6">
 
-# Behavior
+### Behavior
 <img width="1742" alt="behaviorExam2" src="https://github.com/RodoJML/CPS352_ObjectOrientedProgramming_Exam2/assets/63088555/467b1a7d-2fc8-4f55-baaa-feb27cd6fe86">
